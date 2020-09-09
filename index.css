@@ -42,3 +42,67 @@ table {
 	border-spacing: 0;
 }
 
+/*start of my coding*/
+
+html{
+	font-size:62.5%;
+
+}
+body{
+	width:100vw;
+	margin:3rem;
+	font-family: 'Roboto Mono', monospace;
+}
+nav{
+	width:100vw;
+	text-align:center;
+}
+.Visit{
+	background-color:#FF764E;
+	border-radius: 1.4rem;
+	padding: 2rem;
+	width:2rem;
+	height:2rem;
+}
+.Learn{
+	background-color: #5ED3EB;
+	margin-right:20rem;	
+	margin-left:20rem;
+	border-radius: 1.4rem;
+	padding: 2rem;
+	width:2rem;
+	height:2rem;
+}
+.Involved{
+	background-color: #FFCD69;
+	border-radius: 1.4rem;
+	padding: 2rem;
+	width:2rem;
+	height:2rem;
+}
+.content1{
+background-color: #DDB9A3;
+}
+footer{
+	background-color:#F9E7DC ;
+}
+header{
+	display:inline-block;
+	width:100vw;
+}
+header img{
+	display:inline-block;
+	border-radius:50%;
+	width:21rem;
+	margin:5rem;
+
+}
+.header-cont{
+	display:inline-block;
+	width:45rem;
+
+}
+h1{
+	font-size: 3rem;
+	text-align:center;
+}
